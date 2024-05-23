@@ -273,6 +273,7 @@ void sorting()
         printf("3. Heap Sort\n");
         printf("4. Back\n");
         int choice;
+        printf("Enter your choice: ");
         scanf("%d", &choice);
         fflush(stdin);
         system("cls");
@@ -1284,6 +1285,7 @@ void path(int maze[][width])
 	    printf("4. A*\n");
 	    printf ("5. Back\n");
 	    int choice;
+        printf("Enter your choice: ");
 	    scanf("%d", &choice);
 	    fflush(stdin);
 	    system("cls");
@@ -1325,6 +1327,7 @@ void mazeSolving()
         iStart=1;
         jStart=1;
         int choice;
+        printf("Enter your choice: ");
         scanf("%d", &choice);
         fflush(stdin);
         system("cls");
@@ -1406,6 +1409,7 @@ void sandbox()
 	    printf("4. A*\n");
 	    printf ("5. Back\n");
 	    int choice;
+        printf("Enter your choice: ");
 	    scanf("%d", &choice);
 	    fflush(stdin);
 	    maze[iStart][jStart]=4;
@@ -1450,6 +1454,7 @@ int main()
         printf("3. Sandbox\n");
         printf("4. Exit\n");
         int choice;
+        printf("Enter your choice: ");
         scanf("%d", &choice);
         fflush(stdin);
         system("cls");
