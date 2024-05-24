@@ -1,5 +1,5 @@
 # CVisualizer
-Visualizer for sorting, maze solving, and path finding in a sandbox using only C++. Uses well known sorting, path-finding, and maze generation algorithms.
+Visualizer for sorting, maze solving, and path finding in a sandbox using only C++. Uses well known sorting, path-finding, and maze generation algorithms. You can simply compile and run the executable file.
 
 ### Sorting Algorithms
 - Quick Sort
