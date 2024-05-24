@@ -1,17 +1,17 @@
 # CVisualizer
 Visualizer for sorting, maze solving, and path finding in a sandbox using only C++. Uses well known sorting, path-finding, and maze generation algorithms.
 
-## Sorting Algorithms
+### Sorting Algorithms
 - Quick Sort
 - Merge Sort
 - Heap Sort
 
-## Maze Generation Algorithms
+### Maze Generation Algorithms
 - Backtracking
 - Prim
 - Kruskal
 
-## Path Finding Algorithms
+### Path Finding Algorithms
 - Breadth-First Search
 - Depth-First Search
 - Dijkstra
